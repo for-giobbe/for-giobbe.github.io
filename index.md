@@ -9,8 +9,9 @@ Here is also my [scholar profile](https://scholar.google.it/citations?user=xXrCO
 
 - [mitochondrial phylogenomics of Euphasmatodea supports a Triassic/Jurassic radiation](https://www.sciencedirect.com/science/article/abs/pii/S1055790320302554)
 
-- reversible and dynamic evolution of complex trait (https://www.biorxiv.org/content/10.1101/2020.10.14.336354v1.abstract)
+- [reversible and dynamic evolution of complex trait](https://www.biorxiv.org/content/10.1101/2020.10.14.336354v1.abstract)
 
 - pleiotropy constrain trascriptional and sequence changes after trait loss
 
 - morphological stasis is not mirrored at the genome evolution level
+

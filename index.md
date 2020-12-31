@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+Hi there! I am an evolutionary biologist, currently a post-doc at University of Milan, Italy. I am interested in studying how trait evolve, leveraging different perspective such as macroevolutionary and genomics/trascriptomics approaches. 
 
-You can use the [editor on GitHub](https://github.com/for-giobbe/for-giobbe.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Here is my [twitter](https://twitter.com/fornigiobbe) and [github](https://github.com/for-giobbe)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here is also my [scholar profile](https://scholar.google.it/citations?user=xXrCOhAAAAAJ&hl=en) but here's a list of the papers I enjoyed the most:
 
-### Markdown
+- mitochondrial phylogenomics of Euphasmatodea supports a Triassic Jurassic radiation 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- reversible and dynamic evolution of wings in phasmids
 
-```markdown
-Syntax highlighted code block
+- pleiotropy constrain trascriptional and sequence changes after trait loss
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/for-giobbe/for-giobbe.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- morphological stasis is not mirrored 

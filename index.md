@@ -17,4 +17,6 @@ This is my [scholar profile](https://scholar.google.it/citations?user=xXrCOhAAAA
 
 - morphological stasis is not mirrored at the genome evolution level
 
+Societies I like: ESEB/SIBE/SSE/SSB/SMBE.
+
 I also enjoy a wide range of [music](https://madteo.bandcamp.com/track/rugrats-dont-techno-for-an-answer).

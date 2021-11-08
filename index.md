@@ -9,7 +9,7 @@ Take a look at my [twitter](https://twitter.com/fornigiobbe) and [github](https:
 
 This is my [scholar profile](https://scholar.google.it/citations?user=xXrCOhAAAAAJ&hl=en), but here's a list of the papers I enjoyed the most:
 
-- [Euphasmatodea mitogenomics supports a Triassic/Jurassic radiation](https://www.sciencedirect.com/science/article/abs/pii/S1055790320302554)
+- [Euphasmatodea mtgens supports a Triassic/Jurassic radiation](https://www.sciencedirect.com/science/article/abs/pii/S1055790320302554)
 
 - [reversible and dynamic evolution of complex trait](https://www.biorxiv.org/content/10.1101/2020.10.14.336354v1.abstract)
 

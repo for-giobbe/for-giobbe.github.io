@@ -15,7 +15,7 @@ This is my [scholar profile](https://scholar.google.it/citations?user=xXrCOhAAAA
 
 - pleiotropy constrain expression and sequence changes after trait loss
 
-- [morphological stasis is not mirrored at the genome evolution level](https://doi.org/10.1016/j.ygeno.2021.11.001)
+- [morphological stasis not mirrored in genome evolution](https://doi.org/10.1016/j.ygeno.2021.11.001)
 
 Societies I like: ESEB/SIBE/SSE/SSB/SMBE.
 

@@ -5,18 +5,22 @@ To do so I leverage different frameworks such as phylogenetic comparative method
 
 I am currently working on exploring the molecular groundplan of an ant - plant interaction.
 
-Take a look at my [twitter](https://twitter.com/fornigiobbe) and [github](https://github.com/for-giobbe)
+Take a look at my [twitter](https://twitter.com/fornigiobbe) and [github](https://github.com/for-giobbe)!
 
 This is my [scholar profile](https://scholar.google.it/citations?user=xXrCOhAAAAAJ&hl=en), but here's a list of the papers I enjoyed the most:
 
-- [Euphasmatodea mtgens supports a Triassic/Jurassic radiation](https://www.sciencedirect.com/science/article/abs/pii/S1055790320302554)
+- [Euphasmatodea mtgens supports a Triassic/Jurassic radiation](https://www.sciencedirect.com/science/article/abs/pii/S1055790320302554).
 
-- [reversible and dynamic evolution of complex trait](https://www.biorxiv.org/content/10.1101/2020.10.14.336354v1.abstract)
+- [Reversible and dynamic evolution of complex trait](https://academic.oup.com/sysbio/advance-article-abstract/doi/10.1093/sysbio/syac038/6605864).
 
-- pleiotropy constrain expression and sequence changes after trait loss
+- Rleiotropy constrain expression and sequence changes after trait loss - WIP.
 
-- [morphological stasis not mirrored in genome evolution](https://doi.org/10.1016/j.ygeno.2021.11.001)
+- [Morphological stasis not mirrored in genome evolution](https://doi.org/10.1016/j.ygeno.2021.11.001).
 
-Societies I like: ESEB/SIBE/SSE/SSB/SMBE.
+- _Reticultiermes speratus_ genome - WIP.
+
+- A novel and exciting genus of Australian stick insect is described - WIP.
+
+Societies I like and I am a member of: ESEB/SIBE/SSE/SSB/SMBE.
 
 I also enjoy a wide range of [music](https://madteo.bandcamp.com/track/rugrats-dont-techno-for-an-answer).

@@ -13,13 +13,15 @@ This is my [scholar profile](https://scholar.google.it/citations?user=xXrCOhAAAA
 
 - [Reversible and dynamic evolution of complex trait](https://academic.oup.com/sysbio/advance-article-abstract/doi/10.1093/sysbio/syac038/6605864).
 
-- Rleiotropy constrain expression and sequence changes after trait loss - WIP.
+- Rleiotropy constrain expression and sequence changes after trait loss.
 
 - [Morphological stasis not mirrored in genome evolution](https://doi.org/10.1016/j.ygeno.2021.11.001).
 
-- _Reticultiermes speratus_ genome - WIP.
+- [Custom tool to ease the use of codon models in genomics](https://github.com/for-giobbe/BASE).
 
-- A novel and exciting genus of Australian stick insect is described - WIP.
+- _Reticultiermes speratus_ genome.
+
+- A novel and exciting genus of Australian stick insect is described.
 
 Societies I like and I am a member of: ESEB/SIBE/SSE/SSB/SMBE.
 

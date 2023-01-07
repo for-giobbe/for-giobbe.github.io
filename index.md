@@ -9,21 +9,23 @@ Take a look at my [twitter](https://twitter.com/fornigiobbe) and [github](https:
 
 This is my [scholar profile](https://scholar.google.it/citations?user=xXrCOhAAAAAJ&hl=en), but here's a list of the papers I enjoyed the most:
 
-- [Euphasmatodea mtgens supports a Triassic/Jurassic radiation](https://www.sciencedirect.com/science/article/abs/pii/S1055790320302554).
+- [Euphasmatodea mtgens supports a Triassic/Jurassic radiation](https://www.sciencedirect.com/science/article/abs/pii/S1055790320302554)
 
-- [Reversible and dynamic evolution of complex trait](https://academic.oup.com/sysbio/advance-article-abstract/doi/10.1093/sysbio/syac038/6605864).
+- [Reversible and dynamic evolution of complex trait](https://academic.oup.com/sysbio/advance-article-abstract/doi/10.1093/sysbio/syac038/6605864)
 
-- Rleiotropy constrain gene modifications after trait loss.
+- [Pleiotropy constrain gene modifications after trait loss]()
 
-- [Morphological stasis not mirrored in genome evolution](https://doi.org/10.1016/j.ygeno.2021.11.001).
+- [Morphological stasis not mirrored in genome evolution](https://doi.org/10.1016/j.ygeno.2021.11.001)
 
-- [Custom tool to ease the use of codon models in genomics](https://github.com/for-giobbe/BASE).
+- [Custom tool to ease the use of codon models in genomics](https://github.com/for-giobbe/BASE)
 
-- _Reticultiermes speratus_ genome.
+- [_Reticultiermes speratus_ genome.](https://doi.org/10.1111/imb.12818)
 
-- A novel and exciting genus of Australian stick insect is described.
+- [A novel and exciting genus of Australian stick insect is described].(https://doi.org/10.1093/zoolinnean/zlac074)
 
-- A hidden microbiota interaction. 
+- [A hidden microbial wars]()
+
+- [Shared signatures of the shifts to symbiosis across Enterobacterales evolutionary history]()
 
 Societies I like and I am a member of: ESEB/SIBE/SSE/SSB/SMBE.
 

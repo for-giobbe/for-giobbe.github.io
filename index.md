@@ -19,13 +19,13 @@ This is my [scholar profile](https://scholar.google.it/citations?user=xXrCOhAAAA
 
 - [Custom tool to ease the use of codon models in genomics](https://github.com/for-giobbe/BASE)
 
-- [_Reticultiermes speratus_ genome.](https://doi.org/10.1111/imb.12818)
+- [_Reticultiermes speratus_ genome](https://doi.org/10.1111/imb.12818)
 
-- [A novel and exciting genus of Australian stick insect is described].(https://doi.org/10.1093/zoolinnean/zlac074)
+- [A novel and exciting genus of Australian stick insect is described](https://doi.org/10.1093/zoolinnean/zlac074)
 
-- [A hidden microbial wars]()
+- [A hidden microbial war]()
 
-- [Shared signatures of the shifts to symbiosis across Enterobacterales evolutionary history]()
+- [Signatures of symbiosis across Enterobacterales]()
 
 Societies I like and I am a member of: ESEB/SIBE/SSE/SSB/SMBE.
 

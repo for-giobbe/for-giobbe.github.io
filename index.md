@@ -17,7 +17,7 @@ This is my [scholar profile](https://scholar.google.it/citations?user=xXrCOhAAAA
 
 - [Custom tool to ease the use of codon models in genomics](https://github.com/for-giobbe/BASE)
 
-- [_Reticultiermes speratus_genome](https://doi.org/10.1111/imb.12818)
+- [_Reticultiermes speratus_ genome](https://doi.org/10.1111/imb.12818)
 
 - [A novel and exciting genus of Australian stick insect is described](https://doi.org/10.1093/zoolinnean/zlac074)
 

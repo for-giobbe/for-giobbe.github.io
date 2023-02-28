@@ -23,11 +23,11 @@ This is my [scholar profile](https://scholar.google.it/citations?user=xXrCOhAAAA
 
 - [A hidden microbial war](https://www.pnas.org/doi/10.1073/pnas.2216922120)
 
-- Shared signatures of the shifts to endosymbiosis across Enterobacterales (WIP)
+- Shared signatures of endosymbiosis in Enterobacterales (WIP)
 
-- A phylogenetic approach to eDNAbaits design (WIP)
+- A phylogenetic approach to eDNA baits design (WIP)
 
-- Diseecting the molecular groundplan of an ant-plant interaction (WIP)
+- Disecting the molecular groundplan of an ant-plant interaction (WIP)
 
 Societies I like and I am a member of: ESEB/SIBE/SSE/SSB/SMBE/TSA.
 

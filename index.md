@@ -19,7 +19,7 @@ This is my [scholar profile](https://scholar.google.it/citations?user=xXrCOhAAAA
 
 - [A novel and exciting genus of Australian stick insect is described](https://doi.org/10.1093/zoolinnean/zlac074)
 
-- Shared signatures of endosymbiosis in Enterobacterales (WIP)
+- Shared signatures of the shift to endosymbiosis (WIP)
 
 - A phylogenetic approach to eDNA baits design (WIP)
 

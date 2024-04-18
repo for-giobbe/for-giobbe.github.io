@@ -11,7 +11,7 @@ This is my [scholar profile](https://scholar.google.it/citations?user=xXrCOhAAAA
 
 - [A hidden microbial war](https://www.pnas.org/doi/10.1073/pnas.2216922120)
 
-- Pleiotropy constrain gene modifications after trait loss (under review)
+- [Pleiotropy constrain gene modifications after trait loss] (https://doi.org/10.1093/gbe/evae073)
 
 - [A shared groundplan for extreme longevitiy in Metazoa](https://doi.org/10.1093/gbe/evad159)
 
